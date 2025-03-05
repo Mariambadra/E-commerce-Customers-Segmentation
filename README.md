@@ -60,7 +60,7 @@ This project analyzes transactional and demographic data from an e-commerce plat
     - High Engagement: Frequent purchases (high transactions) and recent activity (low recency).
 
     - Moderate Coupon Reliance: Use coupons occasionally but are not fully dependent on them.
-  `**Strategy**`:
+  **`Strategy`**:
 
     - Reward loyalty with exclusive offers or early access to new products.
 
@@ -70,7 +70,7 @@ This project analyzes transactional and demographic data from an e-commerce plat
 
     - Coupon-Averse: Rarely use discounts.
 
-  `Strategy`:
+  **`Strategy`**:
 
     - Re-engage with personalized reactivation campaigns (e.g., "We miss you!" discounts).
 
@@ -80,8 +80,7 @@ This project analyzes transactional and demographic data from an e-commerce plat
 
     - Coupon Reliant: Highly dependent on discounts to make purchases.
 
- **`Strategy`**:
-
+   **`Strategy`**:
     - Target with time-sensitive coupon offers.
 
     - Bundle deals to increase basket size (e.g., "Buy 2, get 1 free").
