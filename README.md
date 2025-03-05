@@ -55,6 +55,37 @@ This project analyzes transactional and demographic data from an e-commerce plat
 | 1       | Moderate           | High           | Low                |  
 | 2       | Low                | Moderate       | High               |  
 
+## Interpretation
+- **Cluster 0**:
+    - High Engagement: Frequent purchases (high transactions) and recent activity (low recency).
+
+    - Moderate Coupon Reliance: Use coupons occasionally but are not fully dependent on them.
+  `**Strategy**`:
+
+    - Reward loyalty with exclusive offers or early access to new products.
+
+    - Upsell premium products (they’re likely to spend more).
+- **Cluster 1**:
+    - Declining Engagement: Haven’t purchased recently (high recency) and show moderate historical activity.
+
+    - Coupon-Averse: Rarely use discounts.
+
+  `**Strategy**`:
+
+    - Re-engage with personalized reactivation campaigns (e.g., "We miss you!" discounts).
+
+    - Investigate churn reasons (e.g., survey feedback).
+- **Cluster 2**:
+    - Low Spend: Infrequent purchases (low transactions) but somewhat recent activity (moderate recency).
+
+    - Coupon Reliant: Highly dependent on discounts to make purchases.
+
+  `**Strategy**`:
+
+    - Target with time-sensitive coupon offers.
+
+    - Bundle deals to increase basket size (e.g., "Buy 2, get 1 free").
+      
 ### **Key Visualizations**  
 - **Elbow Method Plot**: Optimal `k=3` identified.  
 - **PCA Plot**: Clear separation of customer clusters.  
