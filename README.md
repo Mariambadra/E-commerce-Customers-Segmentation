@@ -60,6 +60,7 @@ This project analyzes transactional and demographic data from an e-commerce plat
     - High Engagement: Frequent purchases (high transactions) and recent activity (low recency).
 
     - Moderate Coupon Reliance: Use coupons occasionally but are not fully dependent on them.
+      
   **`Strategy`**:
 
     - Reward loyalty with exclusive offers or early access to new products.
