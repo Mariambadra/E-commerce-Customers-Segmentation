@@ -70,7 +70,7 @@ This project analyzes transactional and demographic data from an e-commerce plat
 
     - Coupon-Averse: Rarely use discounts.
 
-  `**Strategy**`:
+  `Strategy`:
 
     - Re-engage with personalized reactivation campaigns (e.g., "We miss you!" discounts).
 
@@ -80,7 +80,7 @@ This project analyzes transactional and demographic data from an e-commerce plat
 
     - Coupon Reliant: Highly dependent on discounts to make purchases.
 
-  `**Strategy**`:
+ **`Strategy`**:
 
     - Target with time-sensitive coupon offers.
 
